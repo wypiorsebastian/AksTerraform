@@ -15,7 +15,7 @@ variable resource_group_name {
 }
 
 variable "location" {
-    default = "East US"
+    default = "Poland Central"
 }
 
 variable "vm_size" {
